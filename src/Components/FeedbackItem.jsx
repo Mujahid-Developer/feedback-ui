@@ -14,7 +14,7 @@ const FeedbackItem = ({ item, handleDelete }) => {
       >
         <FaTimes color="purple" />
       </button>
-      <div className="tex-display">{item.text}</div>
+      <div className="text-display">{item.text}</div>
     </Card>
   );
 };
