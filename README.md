@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# About This App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is a React app to leave feedback for a product or service Version: 1.0.0
+Live link : [Visit Here](https://feedback-done.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
